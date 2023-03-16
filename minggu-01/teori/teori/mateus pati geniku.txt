@@ -1,0 +1,23 @@
+Bab1
+Python lebih mudah digunakan, tersedia di sistem operasi Windows, macOS, dan Unix, dan akan membantu Anda menyelesaikan pekerjaan lebih cepat.
+Python mudah digunakan, tetapi ini adalah bahasa pemrograman nyata, menawarkan lebih banyak struktur dan dukungan untuk program besar daripada yang ditawarkan skrip shell atau file batch. Di sisi lain, Python juga menawarkan lebih banyak pemeriksaan kesalahan daripada C, dan, sebagai bahasa tingkat sangat tinggi, ia memiliki tipe data tingkat tinggi bawaan, seperti larik fleksibel dan kamus. Karena tipe datanya yang lebih umum, Python dapat diterapkan ke domain masalah yang jauh lebih besar daripada Awk atau bahkan Perl,
+Python adalah bahasa yang ditafsirkan, yang dapat menghemat banyak waktu Anda selama pengembangan program karena tidak diperlukan kompilasi dan penautan.
+Python memungkinkan program ditulis dengan kompak dan mudah dibaca. Program yang ditulis dengan Python biasanya jauh lebih pendek daripada program C, C++, atau Java yang setara.
+menurut acara BBC "Monty Python's Flying Circus" dan tidak ada hubungannya dengan reptil. Membuat referensi ke sandiwara Monty Python dalam dokumentasi tidak hanya diperbolehkan, tetapi juga dianjurkan!
+
+Bab2
+Penerjemah Python biasanya diinstal seperti /usr/local/bin/python3.11pada mesin yang tersedia; memasukkan /usr/local/binjalur pencarian shell Unix Anda memungkinkan untuk memulainya dengan mengetikkan perintah:
+
+mode interaktif . Dalam mode ini ia meminta perintah berikutnya dengan prompt utama , biasanya tiga tanda lebih besar dari ( >>>); untuk baris lanjutan diminta dengan prompt sekunder , secara default tiga titik ( ...). Penerjemah mencetak pesan selamat datang yang menyatakan nomor versinya dan pemberitahuan hak cipta sebelum mencetak permintaan pertama.
+file sumber Python diperlakukan sebagai dikodekan dalam UTF-8. Dalam pengkodean itu, karakter dari sebagian besar bahasa di dunia dapat digunakan secara bersamaan dalam literal string, pengidentifikasi, dan komentar — meskipun perpustakaan standar hanya menggunakan karakter ASCII untuk pengidentifikas
+di mana pengkodean adalah salah satu yang valid codecsdidukung oleh Python.
+
+Bab3
+prompt adalah keluaran dari juru bahasa. Perhatikan bahwa prompt sekunder pada baris dengan sendirinya dalam contoh berarti Anda harus mengetikkan baris kosong; ini digunakan untuk mengakhiri perintah multi-baris.
+Python dimulai dengan karakter hash, #, dan diperpanjang hingga akhir baris fisik. Sebuah komentar mungkin muncul di awal baris atau setelah spasi putih atau kode.
+Karakter hash dalam literal string hanyalah karakter hash. Karena komentar adalah untuk mengklarifikasi kode dan tidak ditafsirkan oleh Python, 
+ kalkulator sederhana: Anda dapat mengetikkan ekspresi dan itu akan menulis nilainya. 
+hasil integer dapat menggunakan //operator; untuk menghitung sisanya Anda dapat menggunakan %:
+string berisi tanda kutip tunggal dan tidak ada tanda kutip ganda, jika tidak maka diapit dengan tanda kutip tunggal.
+Di Python, seperti di C, nilai bilangan bulat bukan nol adalah benar; nol adalah salah. Kondisinya juga bisa berupa string atau daftar nilai
+Python dengan editor teks; semua editor teks yang layak memiliki fasilitas indentasi otomatis.
